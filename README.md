@@ -8,37 +8,61 @@ Passionate developer building and learning through code. Welcome to my GitHub pr
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pashupatinathvidyarthi&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=pashupatinathvidyarthi&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pashupatinathvidyarthi&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pashupatinathvidyarthi&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=pashupatinathvidyarthi&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashupatinathvidyarthi&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=pashupatinathvidyarthi&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pashupatinathvidyarthi&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pashupatinathvidyarthi&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pashupatinathvidyarthi&theme=tokyo-night" />
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
 ---
 
-## 📬 Get In Touch
+## 👀 Profile Views
 
-I am always open to connecting and discussing new projects or collaborations. Feel free to reach out!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pashupatinathvidyarthi&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-*"Code is my canvas, and logic is my brush."*
+---
+
+## 📬 Connect With Me
+
+<p>
+  <a href="https://github.com/pashupatinathvidyarthi">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## ✨ Quote
+
+> "Code is my canvas, and logic is my brush."
