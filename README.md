@@ -25,12 +25,13 @@
 ## 📊 Custom GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pashupatinathvidyarthi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img src="https://streak-stats.demolab.com?user=pashupatinathvidyarthi&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pashupatinathvidyarthi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=1800&v=1" />
+
+  <img src="https://streak-stats.demolab.com?user=pashupatinathvidyarthi&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=1800&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashupatinathvidyarthi&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashupatinathvidyarthi&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css&hide_border=true&bg_color=0d1117&cache_seconds=1800&v=1" />
 </p>
 
 ---
@@ -38,7 +39,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pashupatinathvidyarthi&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pashupatinathvidyarthi&theme=tokyonight&no-frame=true&row=1&column=6&cache_seconds=1800&v=1" />
 </p>
 
 ---
@@ -46,7 +47,15 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pashupatinathvidyarthi&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pashupatinathvidyarthi&theme=tokyo-night&cache_seconds=1800&v=1" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Auto Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pashupatinathvidyarthi/pashupatinathvidyarthi/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
