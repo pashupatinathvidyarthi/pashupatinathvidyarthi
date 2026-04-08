@@ -1,26 +1,36 @@
-# Hello, I'm Pashupati Nath Vidyarthi 👋
-
-<img src="https://avatars.githubusercontent.com/u/254213285?v=4" width="150" align="right" />
-
-🚀 Passionate developer building and learning through code.
-💡 Exploring Python, C++, and modern technologies.
-
----
-
-## 📊 GitHub Stats
+<!-- 🌈 Gradient Banner -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pashupatinathvidyarthi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=pashupatinathvidyarthi&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Pashupati%20Nath%20Vidyarthi&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- ✨ Typing Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+C%2B%2B+%7C+Dart;Open+Source+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 💻 Top Languages
+## 👋 Hello, I'm Pashupati Nath Vidyarthi
+
+<img src="https://avatars.githubusercontent.com/u/254213285?v=4" width="150" align="right" />
+
+🚀 Passionate developer building impactful projects
+💡 Focused on Python, C++, and modern tech
+🔥 Consistent learner & problem solver
+
+---
+
+## 📊 Custom GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashupatinathvidyarthi&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css&langs_count=6&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pashupatinathvidyarthi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=pashupatinathvidyarthi&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashupatinathvidyarthi&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
@@ -43,11 +53,8 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,dart,git,github,vscode" />
 </p>
 
 ---
@@ -62,7 +69,7 @@
 
 ## 📬 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/pashupatinathvidyarthi">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
@@ -73,3 +80,11 @@
 ## ✨ Quote
 
 > "Code is my canvas, and logic is my brush."
+
+---
+
+<!-- 🌈 Footer Wave -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer" />
+</p>
