@@ -7,7 +7,7 @@
 <!-- ✨ Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+C%2B%2B+%7C+Dart;Open+Source+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+%7C+C%2B%2B+%7C+Dart;Open+Source+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
