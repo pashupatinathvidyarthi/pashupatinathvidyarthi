@@ -2,23 +2,30 @@
 
 <img src="https://avatars.githubusercontent.com/u/254213285?v=4" width="150" align="right" />
 
-Passionate developer building and learning through code. Welcome to my GitHub profile!
+🚀 Passionate developer building and learning through code.
+💡 Exploring Python, C++, and modern technologies.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pashupatinathvidyarthi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pashupatinathvidyarthi&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=pashupatinathvidyarthi&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashupatinathvidyarthi&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=pashupatinathvidyarthi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashupatinathvidyarthi&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css&langs_count=6&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pashupatinathvidyarthi&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -34,13 +41,13 @@ Passionate developer building and learning through code. Welcome to my GitHub pr
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
